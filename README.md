@@ -1,4 +1,4 @@
-<img align="center" width="100" src="resources/readme-logo.svg" alt="mic">
+<p align="center"><img width="100" src="resources/readme-logo.svg" alt="mic"></p>
 
 <h1 align="center"><strong>Text To Speech Convertor (TTS)</strong></h1>
 
